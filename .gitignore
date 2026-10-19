@@ -1,0 +1,6 @@
+data/boreal.duckdb
+data/boreal.duckdb.wal
+__pycache__/
+.pytest_cache/
+.venv/
+logs/
